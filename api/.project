@@ -2,7 +2,12 @@
 <projectDescription>
   <name>hl7export-api</name>
   <comment>API project for HL7 Export Module. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
-  <projects/>
+  <projects>
+    <project>openmrs-api</project>
+    <project>openmrs-web</project>
+    <project>openmrs-test</project>
+    <project>hapi-base</project>
+  </projects>
   <buildSpec>
     <buildCommand>
       <name>org.eclipse.jdt.core.javabuilder</name>

@@ -4,6 +4,10 @@
   <comment>OpenMRS module project for HL7 Export Module. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
   <projects>
     <project>hl7export-api</project>
+    <project>hapi-base</project>
+    <project>openmrs-api</project>
+    <project>openmrs-web</project>
+    <project>openmrs-test</project>
   </projects>
   <buildSpec>
     <buildCommand>
